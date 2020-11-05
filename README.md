@@ -17,7 +17,7 @@ nircmd showsounddevices
 
 2. Pick the two you want to switch between
 3. Edit the SwitchSoundSource+.bat file with the names of your sound sources
-
+(replace exampleSource1 and exampleSource2 with the 2 sound source names on your pc)
 ```sh
 SET defaultSoundSource="exampleSource1"
 SET soundSource0="exampleSource1"
